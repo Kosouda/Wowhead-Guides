@@ -320,7 +320,7 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 		[/tab]
 
 		[tab name="Mastery" icon="spell_holy_greaterblessingofkings"]
-			[h3]Effect: +458 Mastery[/h3]
+			[h3]Effect: +550 Mastery Rating[/h3]
 			[url=spell=116956&buff]Example[/url]
 			[br]
 			[table width=100%]
