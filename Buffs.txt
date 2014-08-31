@@ -556,12 +556,15 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 						[url=item=79257][icon name=inv_inscription_armorscroll03]&nbsp;[/icon][/url][spell=111922 domain=wod]
 					[/td]
 					[td width=50% valign=top]
-						[img icon=spell_beastmaster_rylak width=32 float=left] [color=c3]Rylak[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
-						[spell=160003 domain=wod]
+						[img icon=ability_hunter_pet_bear width=32 float=left] [color=c3]Bear[/color]
+						[spell=50256 domain=wod]
 						
 						[img icon=ability_mount_mountainram width=32 float=left] [color=c3]Goat[/color]
 						[spell=160014 domain=wod]
-
+						
+						[img icon=spell_beastmaster_rylak width=32 float=left] [color=c3]Rylak[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
+						[spell=160003 domain=wod]
+						
 						[img icon=ability_hunter_pet_silithid width=32 float=left] [color=c3]Silithid[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=90364 domain=wod]
 					[/td]
@@ -709,7 +712,10 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 					[td width=50% valign=top]
 						[img icon=ability_hunter_pet_devilsaur width=32 float=left] [color=c3]Devilsaur[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=90309 domain=wod]
-
+						
+						[img icon=trade_archaeology_whitehydrafigurine width=32 float=left] [color=c3]Hydra[/color]
+						[spell=97229 domain=wod]
+						
 						[img icon=achievement_moguraid_01 width=32 float=left] [color=c3]Quilen[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=126373 domain=wod]
 
